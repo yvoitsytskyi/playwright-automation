@@ -18,3 +18,4 @@ test('get started link', async ({ page }) => {
 });
 
 //new file: playwright.config.ts
+// playwright.config.ts
